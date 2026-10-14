@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Meta Ads Skills for Digital Products</h1>
-<h2 align="center">SaaS, Courses, Communities & Memberships, PDFs & Ebooks, Downloads, Templates, and Plugins</h2>
+<h2 align="center">(SaaS, Courses, Communities & Memberships, PDFs & Ebooks, Downloads, Templates, and Plugins)</h2>
 <p align="center">A practical, portable AI skill for founders and creators selling SaaS, downloads, courses, communities, templates, and plugins.</p>
 
 <p align="center">
