@@ -1,6 +1,6 @@
 ---
 name: meta-ads-digital-products
-description: Use when planning, launching, auditing, or improving Meta Ads for digital products such as SaaS, downloads, courses, memberships, templates, or plugins, especially when sales, CAC, purchase tracking, or retention need attention.
+description: Use when planning, launching, auditing, or improving Meta Ads for digital products such as SaaS, courses, communities or memberships, PDFs or ebooks, downloads, templates, or plugins, especially when sales, CAC, purchase tracking, or retention need attention.
 license: MIT
 ---
 

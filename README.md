@@ -3,8 +3,10 @@
 </p>
 
 <h1 align="center">Meta Ads Skills for Digital Products</h1>
-<h2 align="center">(SaaS, Courses, Communities & Memberships, PDFs & Ebooks, Downloads, Templates, and Plugins)</h2>
-<p align="center">A practical, portable AI skill for founders and creators selling SaaS, downloads, courses, communities, templates, and plugins.</p>
+
+<h2 align="center">(SaaS, Courses, Communities &amp; Memberships, PDFs &amp; Ebooks, Downloads, Templates, and Plugins)</h2>
+
+<p align="center">A practical, portable AI skill for founders and creators selling SaaS, courses, communities and memberships, PDFs and ebooks, downloads, templates, and plugins.</p>
 
 <p align="center">
   <a href="#install">Install the skill</a> &nbsp;·&nbsp;
@@ -33,9 +35,9 @@ It adapts the strategy to how your product is sold. A SaaS trial needs activatio
 | What you sell | What the skill helps you account for |
 | --- | --- |
 | **SaaS** | Trial-to-paid conversion, activation, churn, payback, and retained revenue |
-| **PDFs and downloads** | Offer clarity, checkout friction, fees, bundles, and refunds |
+| **PDFs, ebooks, and downloads** | Offer clarity, previews, checkout friction, fees, bundles, and refunds |
 | **Video courses** | Consideration time, proof, curriculum claims, payment plans, and refund windows |
-| **Paid communities** | Join-to-renewal quality, participation, and member retention |
+| **Communities and memberships** | Join-to-renewal quality, participation, and member retention |
 | **Templates** | Previews, use cases, compatibility, licensing, and support expectations |
 | **Plugins** | Platform fit, install-to-activation, trial-to-paid, and ongoing support |
 

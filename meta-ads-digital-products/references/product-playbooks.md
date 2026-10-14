@@ -8,7 +8,7 @@ Map signup/trial → activation → paid conversion → renewal. Define activati
 
 Check onboarding friction, time to value, team/integration requirements, product readiness, free-to-paid terms, and sales-assisted steps. If paid volume is low, diagnose activation and payment conversion before assuming the ad is the only issue.
 
-## PDFs and one-time downloads
+## PDFs, ebooks, and one-time downloads
 
 Clarify the exact artifact, intended use, preview, delivery, license, compatibility, and refund terms. Inspect product-page visits → checkout starts → completed paid orders. Compare the order contribution after marketplace/payment fees, discounting, refunds, and support. Bundles or order bumps are hypotheses; use observed incremental contribution and refund impact.
 

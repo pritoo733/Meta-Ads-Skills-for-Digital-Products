@@ -4,7 +4,7 @@ Copy and fill in what you know. Mark unknowns rather than guessing.
 
 ## Product and buyer
 
-- Product model: SaaS / download / course / membership / template / plugin / other
+- Product model: SaaS / course / community or membership / PDF or ebook / other download / template / plugin / other
 - Product and what the buyer receives:
 - Target buyer and use case:
 - Problem, trigger, or desired progress:

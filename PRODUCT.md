@@ -12,7 +12,7 @@ Founders, creators, and marketers selling digital products who want to use Meta 
 
 ## Product Purpose
 
-An open-source Agent Skill repository that helps users plan and improve Meta Ads for SaaS, PDFs and downloads, video courses, paid communities, templates, and plugins. Success means users can understand the skill's value, install it, and use its product-specific guidance to make better evidence-based decisions toward profitable sales. Sales are the goal; no outcome is guaranteed.
+An open-source Agent Skill repository that helps users plan and improve Meta Ads for SaaS, courses, communities and memberships, PDFs and ebooks, downloads, templates, and plugins. Success means users can understand the skill's value, install it, and use its product-specific guidance to make better evidence-based decisions toward profitable sales. Sales are the goal; no outcome is guaranteed.
 
 ## Positioning
 
@@ -24,7 +24,7 @@ The GitHub repository is published. The README is its primary discovery surface 
 
 ## Capabilities and Constraints
 
-- Product models: SaaS, PDFs/downloads, video courses, paid communities/memberships, templates, and plugins.
+- Product models: SaaS, courses, communities/memberships, PDFs/ebooks, downloads, templates, and plugins.
 - Focus: Meta Ads only, with product-appropriate purchase, contribution, activation, refund, and retention measures.
 - No verified customer testimonials, performance results, or brand assets have been supplied. Do not invent them.
 - The README is rendered in GitHub's Markdown environment; custom CSS and interactive web behavior are not available.
