@@ -2,7 +2,7 @@
   <img src="assets/sales-path-v2.svg" alt="Meta Ads for Digital Products: a clear path from ad creative through product page and checkout to paying customers and retention" width="100%">
 </p>
 
-<h1 align="center">Meta Ads Skills for Digital Products (SaaS, Courses, Communities, PDFs, Downloads, Templates, and Plugins)</h1>
+<h1 align="center">Meta Ads Skills for Digital Products (SaaS, Courses, Communities/Memberships, PDFs/Ebooks, Downloads, Templates, and Plugins)</h1>
 
 <p align="center">A practical, portable AI skill for founders and creators selling SaaS, downloads, courses, communities, templates, and plugins.</p>
 
