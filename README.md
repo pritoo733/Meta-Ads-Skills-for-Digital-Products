@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/sales-path.svg" alt="Meta Ads for Digital Products: a clear path from creative to checkout, purchase, and retained customer" width="100%">
+  <img src="assets/sales-path-v2.svg" alt="Meta Ads for Digital Products: a clear path from ad creative through product page and checkout to paying customers and retention" width="100%">
 </p>
 
 <h1 align="center">Meta Ads for Digital Products</h1>
