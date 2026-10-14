@@ -28,7 +28,7 @@ Clicks, views, and cheap signups can look busy while sales stay flat. This skill
 
 It adapts the strategy to how your product is sold. A SaaS trial needs activation and paid conversion. A template needs a clear preview and a smooth checkout. A membership needs renewals, not just joins.
 
-**The aim is better decisions that support profitable sales. No ad skill can guarantee sales or ROAS.**
+**Set 3×+ as a campaign ambition when your economics support it.** This refers to purchase revenue ROAS, which may be Meta-attributed gross revenue; it is not net profit or a promised result. First calculate break-even ROAS from actual fees, refunds, delivery/support costs, and contribution margin. If break-even is above 3×, your target must be higher; if it is below 3×, 3× may leave room for profit, but verify with collected payments and mature refunds. No skill can guarantee sales or a specific ROAS.
 
 ## Choose your product path
 
@@ -43,9 +43,9 @@ It adapts the strategy to how your product is sold. A SaaS trial needs activatio
 
 ## How it works
 
-| Understand the economics | Build the sales path | Improve from evidence |
+| Set an economically sound target | Build the sales path | Improve toward the target |
 | --- | --- | --- |
-| Clarify the buyer, offer, price, margins, refund exposure, and capacity before choosing a spend target. | Match the ad to the page, checkout, and purchase event. Create distinct image and video concepts with claims you can support. | Reconcile Meta and business data, find the earliest measured bottleneck, and run a bounded test with a clear decision rule. |
+| Calculate break-even revenue ROAS from contribution margin after fees, refunds, and variable costs. Use 3×+ as a working ambition only when it fits the offer's economics. | Match the ad to the page, checkout, and purchase event. Create distinct image and video concepts with claims you can support. | Reconcile Meta and payment data, find the earliest measured bottleneck, and test one high-impact change at a time against purchase ROAS, contribution, and the agreed cap. |
 
 ### What you can ask it to do
 

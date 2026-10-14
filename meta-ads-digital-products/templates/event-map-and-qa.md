@@ -17,5 +17,7 @@
 - Browser and server event overlap/deduplication:
 - Consent and data minimization:
 - Test transaction/activation trace:
+- If checkout is separate from the landing page: handoff/domain path, campaign-identifier continuity where supported, and checkout system of record:
+- Captured-payment verification; success/failure/cancel/refund paths; stable order/event ID and value/currency checks:
 - Difference between Meta, analytics, and payment counts:
 - What remains unverified:

@@ -8,6 +8,8 @@
 - Offer, price, terms, and product experience:
 - Demand evidence and open assumptions:
 - Contribution, allowable CAC, and cash/payback limit:
+- Break-even ROAS, requested operating target, revenue basis, and cohort horizon:
+- If using 3×+ as an ambition, is it above break-even and consistent with the required profit/cash buffer?
 - Delivery/support capacity:
 
 ## Campaign hypothesis

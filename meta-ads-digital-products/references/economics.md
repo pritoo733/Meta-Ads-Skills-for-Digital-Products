@@ -36,7 +36,29 @@ Where inputs support it, calculate:
 
 `contribution ROAS = contribution before acquisition cost in the stated cohort / ad spend`
 
+When spend changes and comparable data exists, also inspect incremental (marginal) ROAS: `change in comparable purchase revenue / change in ad spend`. State the comparison periods and other changes. Blended account ROAS can stay high while the additional spend performs below break-even; do not assume a prior average will hold at higher spend.
+
 Neither ratio replaces CAC, payback, cash-flow, or retention analysis. A high revenue ROAS can still be unprofitable when margin, refunds, support, or acquisition labor are ignored.
+
+## Set a target ROAS from the offer's economics
+
+When the user asks for a ROAS target, do not present an industry number as a guarantee. Calculate from the seller's own order economics and state which revenue definition is being targeted.
+
+For a one-time order, using the same gross or net revenue definition in both the margin and ROAS calculation:
+
+`pre-ad contribution margin = contribution before ad spend / revenue`
+
+`break-even revenue ROAS = 1 / pre-ad contribution margin`
+
+This is the revenue ROAS that covers ad spend at the contribution break-even point, before fixed overhead or desired profit. If contribution margin is 80%, break-even is 1.25×; if it is 50%, break-even is 2×. A margin of zero or below has no finite break-even revenue ROAS under this model. For subscriptions, only use observed contribution over a stated, mature horizon; label first-order and cohort ROAS separately.
+
+Set the operating target above break-even by the seller's required profit/cash buffer and any fixed costs they want the target to recover. One useful order-level calculation is:
+
+`target revenue ROAS = average order revenue / allowable media CAC`
+
+If a seller asks to aim for 3×+, record it as a user-selected ambition, then check it against calculated break-even and margin. If break-even exceeds 3×, flag that 3× is below break-even. If break-even is lower, 3× may be profitable before fixed costs, but confirm refunds, actual processor/platform fees, payment timing, attribution, and cohort maturity. Never say the skill or campaign will deliver 3×, or imply that 3× revenue ROAS itself means profit.
+
+Example: a $100 course order yields $80 contribution before ads after variable fees and expected refunds. The pre-ad contribution margin is 80%; break-even revenue ROAS is $100 / $80 = 1.25×. At 3× gross purchase ROAS, $100 ad spend yields $300 attributed revenue, or $240 contribution before ads if the assumptions hold, leaving $140 before fixed costs and other overhead. This illustration assumes payment-confirmed sales and the stated refund/fee estimate; it is not a benchmark or forecast.
 
 ## Scenarios when history is missing
 
