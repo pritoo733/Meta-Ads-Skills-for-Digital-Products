@@ -2,7 +2,7 @@
   "name": "meta-ads-digital-products-skill-installer",
   "version": "1.0.0",
   "private": true,
-  "description": "Install the Meta Ads for Digital Products Agent Skill",
+  "description": "Install the portable Meta Ads for Digital Products Agent Skill for AI assistants",
   "license": "MIT",
   "repository": {
     "type": "git",

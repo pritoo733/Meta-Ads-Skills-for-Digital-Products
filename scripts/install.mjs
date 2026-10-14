@@ -60,7 +60,7 @@ export async function install(destinationRoot = join(homedir(), '.agents', 'skil
 async function main() {
   const args = process.argv.slice(2);
   if (args.length === 1 && args[0] === '--help') {
-    console.log('Install for Codex and compatible agents: meta-ads-digital-products-install [--dest <skills-directory>]\nDefault: ~/.agents/skills. Re-run to update bundled skill files; additional files are preserved.');
+    console.log('Install the Agent Skill: meta-ads-digital-products-install [--dest <skills-directory>]\nDefault: ~/.agents/skills (Codex and Grok). For other hosts, use their documented skills directory, for example --dest ~/.claude/skills for Claude Code. Re-run to update bundled skill files; additional files are preserved.');
     return;
   }
   if (args.length && !(args.length === 2 && args[0] === '--dest' && args[1].trim())) {

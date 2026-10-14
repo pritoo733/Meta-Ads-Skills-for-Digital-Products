@@ -4,7 +4,7 @@
 
 <h1 align="center">Meta Ads for Digital Products</h1>
 
-<p align="center">A practical, installable AI skill for founders and creators selling SaaS, downloads, courses, communities, templates, and plugins.</p>
+<p align="center">A practical, portable AI skill for founders and creators selling SaaS, downloads, courses, communities, templates, and plugins.</p>
 
 <p align="center">
   <a href="#install">Install the skill</a> &nbsp;·&nbsp;
@@ -54,9 +54,15 @@ It adapts the strategy to how your product is sold. A SaaS trial needs activatio
 
 ## Install
 
-### Codex or compatible agent
+### Use it with Codex, Claude, Grok, and other LLMs
 
-With Node.js 18 or newer:
+This repository packages the skill in the open [Agent Skills format](https://agentskills.io/specification). The skill instructions and reference files are model-agnostic: use them with Codex, Claude Code, Grok, or another LLM host that supports Agent Skills. Each host has its own skill discovery and install rules, so follow that host's documentation.
+
+For hosts without native Agent Skills support, download the ZIP and provide `SKILL.md` plus the relevant `references/` files as context. A chat interface that cannot retain files or instructions may require you to attach them again in each conversation.
+
+#### Codex and Grok
+
+The default installer location `~/.agents/skills/` is supported by Codex and Grok. With Node.js 18 or newer:
 
 ```bash
 npx --yes --package=https://github.com/pritoo733/Meta-Ads-Skills-for-Digital-Products/archive/refs/heads/main.tar.gz meta-ads-digital-products-install
@@ -64,19 +70,29 @@ npx --yes --package=https://github.com/pritoo733/Meta-Ads-Skills-for-Digital-Pro
 
 The installer adds or updates `meta-ads-digital-products` in `~/.agents/skills/`. It preserves neighboring skills and files. The skill is available to the agent on its next turn.
 
+#### Claude Code
+
+Claude Code uses `~/.claude/skills/` for personal skills. Install there with the repository installer:
+
+```bash
+npx --yes --package=https://github.com/pritoo733/Meta-Ads-Skills-for-Digital-Products/archive/refs/heads/main.tar.gz meta-ads-digital-products-install --dest ~/.claude/skills
+```
+
 ### Manual install
 
-Download [`dist/meta-ads-digital-products.zip`](dist/meta-ads-digital-products.zip), extract it, and copy the complete `meta-ads-digital-products` folder into your agent's skills directory. Or, after cloning this repository, run:
+Download [`dist/meta-ads-digital-products.zip`](dist/meta-ads-digital-products.zip), extract it, and copy the complete `meta-ads-digital-products` folder into the skill directory documented by your AI host. Or, after cloning this repository, run:
 
 ```bash
 node scripts/install.mjs
 ```
 
-To install somewhere else:
+To install for a host with a different skills directory (for example, Claude Code):
 
 ```bash
 node scripts/install.mjs --dest /path/to/your/skills
 ```
+
+The installer writes the folder inside the directory you specify. It does not configure the host, enable tools, or guarantee that a platform discovers skills from that path; check the host's current skill documentation.
 
 ## Try it
 
