@@ -1,0 +1,28 @@
+name: Build skill archive
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  package:
+    runs-on: windows-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Build downloadable skill ZIP
+        shell: pwsh
+        run: |
+          $source = Join-Path $env:GITHUB_WORKSPACE 'meta-ads-digital-products'
+          $dist = Join-Path $env:GITHUB_WORKSPACE 'dist'
+          New-Item -ItemType Directory -Force -Path $dist | Out-Null
+          $archive = Join-Path $dist 'meta-ads-digital-products.zip'
+          if (Test-Path -LiteralPath $archive) { Remove-Item -LiteralPath $archive -Force }
+          Compress-Archive -Path $source -DestinationPath $archive
+      - uses: actions/upload-artifact@v4
+        with:
+          name: meta-ads-digital-products
+          path: dist/meta-ads-digital-products.zip

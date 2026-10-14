@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="440" viewBox="0 0 1440 440" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">The digital product sales path</title>
+  <desc id="desc">A precise path diagram from ad creative to product page, checkout, paid customer, and retained value.</desc>
+  <rect width="1440" height="440" rx="24" fill="#F5F0E6"/>
+  <path d="M56 72H1384" stroke="#D8D2C6" stroke-width="2"/>
+  <circle cx="78" cy="72" r="8" fill="#F26B52"/>
+  <circle cx="106" cy="72" r="8" fill="#D8E86B"/>
+  <circle cx="134" cy="72" r="8" fill="#18263B"/>
+  <text x="178" y="80" fill="#526073" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" letter-spacing="2">META ADS → CUSTOMER VALUE</text>
+  <text x="74" y="165" fill="#18263B" font-family="Arial, Helvetica, sans-serif" font-size="54" font-weight="800" letter-spacing="-2">Make every click</text>
+  <text x="74" y="223" fill="#18263B" font-family="Arial, Helvetica, sans-serif" font-size="54" font-weight="800" letter-spacing="-2">answer to <tspan fill="#F26B52">sales.</tspan></text>
+  <text x="76" y="270" fill="#526073" font-family="Arial, Helvetica, sans-serif" font-size="20">A product-specific Meta Ads skill for the whole path.</text>
+  <g transform="translate(78 312)">
+    <rect width="233" height="54" rx="27" fill="#18263B"/>
+    <text x="116.5" y="35" text-anchor="middle" fill="#F5F0E6" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" letter-spacing="1">OFFER → PURCHASE</text>
+  </g>
+  <g transform="translate(704 118)">
+    <path d="M76 123H159M279 123H362M482 123H565M685 123H768" stroke="#18263B" stroke-width="3" stroke-linecap="round"/>
+    <path d="M150 115L160 123L150 131M353 115L363 123L353 131M556 115L566 123L556 131M759 115L769 123L759 131" stroke="#18263B" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <g>
+      <rect x="0" y="45" width="152" height="156" rx="18" fill="#FFFFFF" stroke="#D8D2C6" stroke-width="2"/>
+      <path d="M26 78H126" stroke="#F26B52" stroke-width="7" stroke-linecap="round"/>
+      <path d="M26 98H108" stroke="#A7AFB9" stroke-width="5" stroke-linecap="round"/>
+      <path d="M26 113H93" stroke="#A7AFB9" stroke-width="5" stroke-linecap="round"/>
+      <text x="76" y="165" text-anchor="middle" fill="#18263B" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700">AD</text>
+      <text x="76" y="184" text-anchor="middle" fill="#6C7481" font-family="Arial, Helvetica, sans-serif" font-size="12">attention</text>
+    </g>
+    <g>
+      <rect x="203" y="45" width="152" height="156" rx="18" fill="#FFFFFF" stroke="#D8D2C6" stroke-width="2"/>
+      <path d="M229 78H329" stroke="#18263B" stroke-width="7" stroke-linecap="round"/>
+      <path d="M229 98H311" stroke="#A7AFB9" stroke-width="5" stroke-linecap="round"/>
+      <path d="M229 113H296" stroke="#A7AFB9" stroke-width="5" stroke-linecap="round"/>
+      <text x="279" y="165" text-anchor="middle" fill="#18263B" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700">PRODUCT PAGE</text>
+      <text x="279" y="184" text-anchor="middle" fill="#6C7481" font-family="Arial, Helvetica, sans-serif" font-size="12">intent</text>
+    </g>
+    <g>
+      <rect x="406" y="45" width="152" height="156" rx="18" fill="#FFFFFF" stroke="#D8D2C6" stroke-width="2"/>
+      <rect x="432" y="74" width="100" height="51" rx="9" fill="#F5F0E6"/>
+      <path d="M447 91H516M447 106H497" stroke="#A7AFB9" stroke-width="5" stroke-linecap="round"/>
+      <text x="482" y="165" text-anchor="middle" fill="#18263B" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700">CHECKOUT</text>
+      <text x="482" y="184" text-anchor="middle" fill="#6C7481" font-family="Arial, Helvetica, sans-serif" font-size="12">purchase</text>
+    </g>
+    <g>
+      <rect x="609" y="45" width="152" height="156" rx="18" fill="#D8E86B" stroke="#BBCB50" stroke-width="2"/>
+      <circle cx="685" cy="99" r="25" fill="#18263B"/>
+      <path d="M674 99L682 107L697 90" stroke="#F5F0E6" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+      <text x="685" y="165" text-anchor="middle" fill="#18263B" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700">CUSTOMER</text>
+      <text x="685" y="184" text-anchor="middle" fill="#465025" font-family="Arial, Helvetica, sans-serif" font-size="12">contribution</text>
+    </g>
+    <g>
+      <rect x="812" y="45" width="152" height="156" rx="18" fill="#18263B"/>
+      <path d="M838 112C853 86 878 81 893 92C910 105 927 104 937 83" stroke="#F26B52" stroke-width="5" stroke-linecap="round"/>
+      <path d="M930 84L938 82L937 91" stroke="#F26B52" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+      <text x="888" y="165" text-anchor="middle" fill="#F5F0E6" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700">RETAINED</text>
+      <text x="888" y="184" text-anchor="middle" fill="#D8E86B" font-family="Arial, Helvetica, sans-serif" font-size="12">renewal / value</text>
+    </g>
+    <text x="483" y="265" text-anchor="middle" fill="#6C7481" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="600" letter-spacing="1.2">FIND THE LEAK. TEST THE NEXT FIX.</text>
+    <path d="M0 289H964" stroke="#D8D2C6" stroke-width="2"/>
+    <text x="0" y="325" fill="#526073" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" letter-spacing="1">SAAS</text>
+    <text x="148" y="325" fill="#526073" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" letter-spacing="1">DOWNLOADS</text>
+    <text x="348" y="325" fill="#526073" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" letter-spacing="1">COURSES</text>
+    <text x="512" y="325" fill="#526073" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" letter-spacing="1">MEMBERSHIPS</text>
+    <text x="726" y="325" fill="#526073" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" letter-spacing="1">TEMPLATES</text>
+    <text x="884" y="325" fill="#526073" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" letter-spacing="1">PLUGINS</text>
+  </g>
+</svg>

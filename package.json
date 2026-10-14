@@ -1,0 +1,26 @@
+{
+  "name": "meta-ads-digital-products-skill-installer",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Install the Meta Ads for Digital Products Agent Skill",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pritoo733/Meta-Ads-Skills-for-Digital-Products.git"
+  },
+  "type": "module",
+  "engines": {
+    "node": ">=18"
+  },
+  "bin": {
+    "meta-ads-digital-products-install": "scripts/install.mjs"
+  },
+  "files": [
+    "scripts/install.mjs",
+    "meta-ads-digital-products",
+    "LICENSE"
+  ],
+  "scripts": {
+    "install-skill": "node scripts/install.mjs"
+  }
+}
