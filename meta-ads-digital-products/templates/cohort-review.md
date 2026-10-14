@@ -14,13 +14,15 @@
 | --- | ---: | ---: | --- | --- |
 | Spend |  |  |  |  |
 | Destination visits |  |  |  |  |
-| Checkout or trial starts |  |  |  |  |
-| Paid customers |  |  |  |  |
-| Activated customers |  |  |  |  |
+| Checkout / signup / trial starts |  |  |  |  |
+| Attended / demo completed (if applicable) |  |  |  |  |
+| Captured paid orders |  |  |  |  |
+| Activated customers (if applicable) |  |  |  |  |
 | Refunds/cancellations |  |  |  |  |
 | Renewed/retained customers |  |  |  |  |
 
 - Platform-attributed purchase value:
+- Meta-reported Purchase count/value and payment-system captured order count/value (reconcile differences):
 - Payment-confirmed net revenue:
 - Contribution before acquisition:
 - Media CAC / fully loaded CAC, if costs support it:

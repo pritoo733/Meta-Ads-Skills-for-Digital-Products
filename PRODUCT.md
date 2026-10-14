@@ -20,7 +20,7 @@ Product-specific campaign guidance that follows the path from offer and economic
 
 ## Operating Context
 
-The main discovery and adoption surface is the public GitHub repository README. The repository is currently empty on GitHub; local design/spec documents are not yet published. The README should help visitors quickly understand the skill, choose the relevant product playbook, and install or explore it.
+The GitHub repository is published. The README is its primary discovery surface and should help visitors quickly understand the skill, choose the relevant product playbook, and install or explore it.
 
 ## Capabilities and Constraints
 

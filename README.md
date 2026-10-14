@@ -121,6 +121,7 @@ Bring real prices, fees, margins, funnel counts, customer language, and the date
 - **No one-size-fits-all funnel.** A one-time download, subscription, course, and plugin need different economics and evaluation windows.
 - **No implied account access.** The skill itself cannot see or change your Meta account, website, payment system, or CRM.
 - **Current controls matter.** Verify current Meta campaign options, ad standards, data rules, and local privacy requirements before changing live campaigns.
+- **Research has limits.** The packaged [research basis](meta-ads-digital-products/references/research-basis.md) lists its sources and separates platform guidance from self-reported case studies.
 
 ## What's inside
 
@@ -135,7 +136,8 @@ meta-ads-digital-products/
 │   ├── creative-and-conversion.md
 │   ├── product-playbooks.md
 │   ├── testing-and-optimization.md
-│   └── policy-and-proof.md
+│   ├── policy-and-proof.md
+│   └── research-basis.md
 └── templates/
     ├── intake.md
     ├── unit-economics.md

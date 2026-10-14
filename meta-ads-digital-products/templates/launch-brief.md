@@ -3,6 +3,7 @@
 ## Readiness
 
 - Verdict: ready for a capped test / revise before ads / insufficient evidence
+- Lead offer selected for this test and why; other products deferred:
 - Buyer and market:
 - Offer, price, terms, and product experience:
 - Demand evidence and open assumptions:
@@ -12,8 +13,10 @@
 ## Campaign hypothesis
 
 - Business outcome:
+- Purchase path: direct sale / signup-to-sale / webinar-to-sale / demo-to-sale / trial-to-paid / other (explain why):
 - Campaign objective and conversion location (verify in current account):
 - Optimization event and source of truth:
+- If the optimization event is an intermediate event, how it is joined to paid customers and contribution:
 - Audience eligibility/geography:
 - Primary variable being tested:
 - Creative hypothesis and destination:

@@ -27,10 +27,14 @@ Match the ad to the destination's first screen, offer, price/terms, product comp
 
 ## Creative test matrix
 
-Change the primary concept dimension deliberately and keep the offer, destination, and event stable when practical. Note that Meta delivery is unequal; observational comparisons do not prove the creative caused the difference.
+Build creative variety at the concept level: different buyer motivations, use cases, mechanisms, objections, or kinds of proof. A new crop, opening line, or caption can be useful production variation, but it is not automatically a new strategic hypothesis. Meta Blueprint recommends diversification by concept and format; adapt that principle to the budget and the seller's ability to read the result.
 
-| Concept | Buyer insight | Hypothesis | Asset/format | Landing match | Primary business signal |
-| --- | --- | --- | --- | --- | --- |
-| Product demo | What evidence says this matters? | Why might this improve qualified purchase? | Image/video/other | What continues the promise? | Paid customer and contribution |
+Digital products can be hard to picture before purchase. Prefer a truthful product demonstration: show the SaaS workflow, a template in use, a plugin installation or output, a course excerpt, a download preview, or a community experience. If the real interface or customer material cannot be shown, use a clearly labeled mockup and do not present it as a real customer result.
+
+Change the primary concept dimension deliberately and keep the offer, destination, and event stable when practical. A native creative-testing feature or a properly designed experiment may help compare variants when available; verify its current behavior in the account. Otherwise, compare delivery as an observational read, note unequal spend and audience overlap, and avoid claiming causality. Do not flood a small budget with more ads than it can meaningfully evaluate.
+
+| Concept | Buyer insight / motivation | Hypothesis | Product proof or demo | Asset/format | Landing match | Paid-customer signal |
+| --- | --- | --- | --- | --- | --- | --- |
+| Product demo | What evidence says this matters? | Why might this improve qualified purchase? | What real product experience can be shown? | Image/video/other | What continues the promise? | Paid customer and contribution |
 
 Evaluate delivery, attention, click quality, page conversion, purchases, refunds, activation, and retention as relevant. Use engagement metrics to diagnose a mechanism, not as a substitute for the business result.
