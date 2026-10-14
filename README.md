@@ -4,8 +4,6 @@
 
 <h1 align="center">Meta Ads for Digital Products</h1>
 
-<p align="center"><strong>Make every click answer to sales.</strong></p>
-
 <p align="center">A practical, installable AI skill for founders and creators selling SaaS, downloads, courses, communities, templates, and plugins.</p>
 
 <p align="center">
